@@ -4,7 +4,7 @@
 
 ### What is front end developer
 
-- [What is a frontend developer? - frontendmasters.com](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
+[x]- [What is a frontend developer? - frontendmasters.com](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
 - [Frontend web developer - Mozilla Developer docs](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - [What is frontend development - Freecodecamp](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)
 
@@ -17,9 +17,9 @@
 
 ### How does internet work
 
-- [Computer Networking course - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+[x]- [Computer Networking course - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - [How the Internet Travel Across Oceans? - TechVision(Youtube)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
-- [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
+[x]- [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
 - [How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
@@ -28,12 +28,12 @@
 
 ### Internet-CS50's understanding technology
 
-- [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
+[x]- [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
 ## Learning HTML
 
 ### HTML Tutorial
-
+[x]
 - [Learn HTML - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Learn HTML - Codecademy](https://www.codecademy.com/learn/learn-html)
 - [Learn HTML](https://web.dev/learn/html/)
@@ -50,7 +50,7 @@
 ### Frontend Projects
 
 - [frontendeval.com](https://www.frontendeval.com)
-- [frontendmentor.io](https://www.frontendmentor.io/)
+- [frontendmentor.io](https://www.frontendmentor.io/) -> ongoing 
 - [frontendpractice.com](https://www.frontendpractice.com/)
 - [iCodeThis.com](https://www.icodethis.com/)
 
