@@ -1,4 +1,5 @@
 # Backend Roadmap
+<base target="_blank">
 
 ## Introduction to Backend Development
 
