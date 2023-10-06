@@ -3,12 +3,12 @@
 
 ## Introduction to Backend Development
 
-- [What is Backend Development](https://www.youtube.com/watch?v=cbSrsYiRamo) `Recommended`
-- [Introduction to Backend Development](https://dev.to/kaperskyguru/introduction-to-backend-development-506a)
-- [Back-end Developer Career Path](https://boot.dev/tracks/backend)
-- [How Backend works](https://www.youtube.com/watch?v=4r6WdaY3SOA)
-- [Guide to Backend Development](https://www.upwork.com/resources/beginners-guide-back-end-development)
-
+- [What is Backend Development](https://www.youtube.com/watch?v=cbSrsYiRamo target="_blank") `Recommended`
+- [Introduction to Backend Development](https://dev.to/kaperskyguru/introduction-to-backend-development-506a target="_blank")
+- [Back-end Developer Career Path](https://boot.dev/tracks/backend target="_blank")
+- [How Backend works](https://www.youtube.com/watch?v=4r6WdaY3SOA target="_blank")
+- [Guide to Backend Development](https://www.upwork.com/resources/beginners-guide-back-end-development target="_blank")
+- 
 ## Basics of Frontend
 
 - [Frontend Developer crash course](https://www.youtube.com/watch?v=QA0XpGhiz5w)
